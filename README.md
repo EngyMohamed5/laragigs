@@ -1,4 +1,4 @@
-# Project Title
+# Laragigs
 
 This project was created by following the [Laravel From Scratch | 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY&t=13897s) by Traversy Media.
 
